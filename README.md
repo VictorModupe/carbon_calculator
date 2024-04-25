@@ -34,7 +34,6 @@ Install Streamlit, the Python library used to create the web app, by running the
 pip install streamlit
 
 
-
 Alternatively, you can open your terminal or command prompt as an administrator and run:
 
 
